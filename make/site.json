@@ -1,0 +1,10 @@
+{
+  "description": "Easily connect and share links through a user-friendly interface, streamlining access to important resources for individuals and teams.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
